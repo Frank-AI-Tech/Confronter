@@ -65,12 +65,12 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "𝐁𝐞𝐥𝐭𝐚𝐡 𝐤𝐞"
+      "value": "zzz"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "254114141192"
+      "value": "254796283064"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
@@ -89,7 +89,7 @@
     },
     "ANTI_DELETE_MESSAGE": {
       "description": "if you want to enable anti delete message put yes else put no",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "PM_CHATBOT": {
